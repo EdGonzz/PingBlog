@@ -1,5 +1,21 @@
 body{
     text-align: center;
     font-family: 'Times New Roman';
-    color: blueviolet;
+    color: #333;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 2px solid rgb(143, 142, 142);
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+#container h1{
+    font-size: 30px;
 }
