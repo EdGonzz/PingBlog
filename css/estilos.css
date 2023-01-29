@@ -11,7 +11,7 @@ body{
 #cabecera{
     border-radius: 27px 27px 0px 0px;
     font-size: 25px;
-    background: rgb(75, 15, 143);
+    background: rgb(87, 31, 151);
     box-shadow: 0px 2px 20px 0px rgb(0, 0, 0, 0.75);
     color: white;
     font-weight: bold;
@@ -53,6 +53,12 @@ body{
 
 #post{
     padding: 1em;
-    background: rgb(175, 143, 201);
+    background: rgb(185, 164, 202);
+}
+#footer{
+    background: rgb(114, 60, 177);
+    color: white;
+    text-align: center;
+    padding: 0.2cm;
     border-radius: 0 0 27px 27px;
 }
